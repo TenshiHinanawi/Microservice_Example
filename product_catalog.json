@@ -2,10 +2,31 @@
     "Catalog": {
         "Products": [
             {
-                "ProductID": "101",
-                "Name": "Smartphone",
-                "Category": "Electronics",
-                "Price": 299.99,
+                "ProductID": "1",
+                "Name": "Kurumi Plushie 2025-Cyberpunk Edition",
+                "Category": "Dolls",
+                "Price": 350.00,
+                "Stock": 25
+            },
+            {
+                "ProductID": "2",
+                "Name": "Mukuro Plushie 2025-Cyberpunk Edition",
+                "Category": "Dolls",
+                "Price": 330.00,
+                "Stock": 25
+            },
+            {
+                "ProductID": "3",
+                "Name": "Raiden Shogun Plushie TIP x Hoyoverse Collab 2025",
+                "Category": "Dolls",
+                "Price": 500.00,
+                "Stock": 10
+            },
+            {
+                "ProductID": "4",
+                "Name": "Kurumi MegaJumbo",
+                "Category": "Dolls",
+                "Price": 300.00,
                 "Stock": 25
             }
         ]

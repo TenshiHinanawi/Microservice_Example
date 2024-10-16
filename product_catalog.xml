@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
-<Product ProductID="101">
-    <Name>Smartphone</Name>
-    <Category>Electronics</Category>
-    <Price>299.99</Price>
+<Product ProductID="1">
+    <Name>Kurumi Plushie 2025-Cyberpunk Edition</Name>
+    <Category>Dolls</Category>
+    <Price>350.00</Price>
+    <Stock>25</Stock>
+</Product>
+<Product ProductID="2">
+    <Name>Mukuro Plushie 2025-Cyberpunk Edition</Name>
+    <Category>Dolls</Category>
+    <Price>330.00</Price>
+    <Stock>25</Stock>
+</Product>
+<Product ProductID="3">
+    <Name>Raiden Shogun Plushie ARA x Hoyoverse Collab 2025</Name>
+    <Category>Dolls</Category>
+    <Price>500.00</Price>
+    <Stock>10</Stock>
+</Product>
+<Product ProductID="4">
+    <Name>Kurumi MegaJumbo</Name>
+    <Category>Dolls</Category>
+    <Price>300.00</Price>
     <Stock>25</Stock>
 </Product>
 </catalog>
